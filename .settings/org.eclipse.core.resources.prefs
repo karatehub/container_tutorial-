@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
+encoding//db/startup.sh=UTF-8
+encoding//web/startup.sh=UTF-8
 encoding/<project>=ISO-8859-1
